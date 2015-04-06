@@ -1,6 +1,6 @@
 Adapteva Parallella Screener (The Foreman) instructions:
 
-Wasatch Photonics uses Adapteva Parallella SKI P1601-DK03's as an embedded linux
+Wasatch Photonics uses Adapteva Parallella SKU P1601-DK03's as an embedded linux
 system. Core capabilities required include a USB bus that is available at least
 83% of the time on boot up. A screener was created to allow us to find the
 incoming Parallella boards that meet this level of usb availability. This setup
