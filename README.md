@@ -18,6 +18,12 @@ summary results like:
 You can see live results here:
 http://wasatchcookbook.com/static/foreman_results.html
 
+Read all about Parallella USB issues here:
+https://parallella.org/forums/viewtopic.php?f=50&t=1650&start=40#p13290
+
+Here is what the Foreman looks like in practice:
+![foreman hardware](https://parallella.org/forums/download/file.php?id=412 "foreman hardware")
+
 
 copy the disk image onto an sd card (see parallela instructions)
 These instructions use: ubuntu-14.04-headless-z7010-20150130.1.img
