@@ -13,10 +13,9 @@ summary results like:
 04:4F:8B:00:2C:6E Pass: 1553, Fail: 1058  (55.56% failure rate)
 04:4F:8B:00:2C:7C Pass: 610,  Fail: 1999  (86.42% failure rate)
 04:4F:8B:00:2C:72 Pass: 2596, Fail: 14    ( 1.23% failure rate)
-(These are from: http://wasatchcookbook.com/static/orig_results.html)
 
-You can see live results here:
-http://wasatchcookbook.com/static/foreman_results.html
+You can see historical results here: [Foreman results](/docs/orig_result.html)
+
 
 Read all about Parallella USB issues here:
 https://parallella.org/forums/viewtopic.php?f=50&t=1650&start=40#p13290
@@ -24,6 +23,9 @@ https://parallella.org/forums/viewtopic.php?f=50&t=1650&start=40#p13290
 Here is what the Foreman looks like in practice:
 ![foreman hardware](https://parallella.org/forums/download/file.php?id=412 "foreman hardware")
 
+Use this tool to summarize the data into readable graphs:
+
+![Foreman screenshot](/docs/foreman_screenshot.png "Foreman screenshot")
 
 copy the disk image onto an sd card (see parallela instructions)
 These instructions use: ubuntu-14.04-headless-z7010-20150130.1.img
@@ -74,6 +76,9 @@ mac address for the parallela.
 
 Separate programs can be used to process this information into more readable
 data as shown on the page:
-http://wasatchcookbook.com/static/foreman_results.html
+[Foreman results](/docs/orig_result.html)
+
 Raw data is here:
-http://wasatchcookbook.com/static/ip_and_mac.log
+[Raw data](/docs/ip_and_mac.log)
+
+
